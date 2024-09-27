@@ -86,4 +86,9 @@ p {
 a:focus {
     background-color: #9fdc31 !important; /* Changes background to green on focus */
     color: black; /* Changes text color to black on focus */
+  
+}
+a:hover{
+    background-color: #9fdc31 !important; /* Changes background to green on hover */
+    color: black; /* Changes text color to black on hover */
 }
